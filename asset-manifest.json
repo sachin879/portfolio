@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a01b3427.css",
+    "main.js": "/static/js/main.e9cc1ef8.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/Sachin joshi 3.pdf": "/static/media/Sachin joshi 3.9e4cd3c89991944bf080.pdf",
+    "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/sachin-high-resolution-logo-transparent.png": "/static/media/sachin-high-resolution-logo-transparent.5b9c346d349367e7ec23.png",
+    "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/about.svg": "/static/media/about.ab758ed28f8efd528851900cf5057193.svg",
+    "static/media/home-main.svg": "/static/media/home-main.110f50667f0c08da2feaf4765be6b1ea.svg",
+    "static/media/avatar.svg": "/static/media/avatar.b8bca7c9190fc7e177c6cae3a07fd353.svg",
+    "index.html": "/index.html",
+    "main.a01b3427.css.map": "/static/css/main.a01b3427.css.map",
+    "main.e9cc1ef8.js.map": "/static/js/main.e9cc1ef8.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a01b3427.css",
+    "static/js/main.e9cc1ef8.js"
+  ]
+}
